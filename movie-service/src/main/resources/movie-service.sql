@@ -1,8 +1,8 @@
-INSERT INTO movies(name, genre, url_stream) VALUES('Dark Shadows', 'Terror', 'https://www.netflix.com/title/70217909');
-INSERT INTO movies(name, genre, url_stream) VALUES('Gremlins', 'Terror', 'https://www.netflix.com/title/562050');
-INSERT INTO movies(name, genre, url_stream) VALUES('Minions', 'Comedy', 'https://www.netflix.com/title/80033394');
-INSERT INTO movies(name, genre, url_stream) VALUES('World War Z', 'Terror', 'https://www.netflix.com/title/70262639');
-INSERT INTO movies(name, genre, url_stream) VALUES('Kung-fu Panda', 'Comedy', 'https://www.netflix.com/title/70075480');
-INSERT INTO movies(name, genre, url_stream) VALUES('Pacific Rim', 'Action', 'https://www.netflix.com/title/70267241');
-INSERT INTO movies(name, genre, url_stream) VALUES('The Old Guard', 'Action', 'https://www.netflix.com/title/81038963');
-INSERT INTO movies(name, genre, url_stream) VALUES('Pride & Prejudice', 'Romance', 'https://www.netflix.com/title/70032594');
+INSERT INTO movies(name, genre, url_stream) VALUES('Paw Patrol', 'Action', 'https://www.netflix.com/title/15245');
+INSERT INTO movies(name, genre, url_stream) VALUES('Scream', 'Terror', 'https://www.netflix.com/title/1354435');
+INSERT INTO movies(name, genre, url_stream) VALUES('Pj Mask', 'Comedy', 'https://www.netflix.com/title/1232145');
+INSERT INTO movies(name, genre, url_stream) VALUES('Din dan Dim', 'Comedy', 'https://www.netflix.com/title/123214');
+INSERT INTO movies(name, genre, url_stream) VALUES('Roger that', 'Action', 'https://www.netflix.com/title/55346346');
+INSERT INTO movies(name, genre, url_stream) VALUES('Apollo', 'Adventure', 'https://www.netflix.com/title/12321525');
+INSERT INTO movies(name, genre, url_stream) VALUES('Jamie Whitney 02', 'Action', 'https://www.netflix.com/title/12312315');
+INSERT INTO movies(name, genre, url_stream) VALUES('On stop', 'Music', 'https://www.netflix.com/title/1232145');
