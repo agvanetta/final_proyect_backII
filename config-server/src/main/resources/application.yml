@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/tatianarincon96/dh-gitconfig
+          uri: https://github.com/agvanetta/configs_microservices
           default-label: main
         #native:
           #search-locations: classpath:/config
